@@ -1,3 +1,12 @@
 .idea/
 *.iml
 ATSAME54P20A.xml
+
+
+#Added by cargo
+#
+#already existing elements are commented out
+
+/target
+**/*.rs.bk
+Cargo.lock
