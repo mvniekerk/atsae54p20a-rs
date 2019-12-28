@@ -1,12 +1,8 @@
-.idea/
-*.iml
-ATSAME54P20A.xml
-
-
-#Added by cargo
-#
-#already existing elements are commented out
-
+target
+*.rs.bk
+[._]*.sw[a-p]
 /target
-**/*.rs.bk
+/doc
+/doc-build
 Cargo.lock
+/.gdb_history
